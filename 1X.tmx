@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="2" height="2" tilewidth="750" tileheight="625" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="0.tsx"/>
+ <layer id="1" name="Rutelag 1" width="2" height="2">
+  <data encoding="csv">
+3,1,
+4,2
+</data>
+ </layer>
+</map>
